@@ -1,28 +1,28 @@
 # 🧬 Functional Programming Projects
 
-Welcome 👋!  
+Welcome! 👋  
 This repository contains a collection of my projects built using **Functional Programming (FP)** principles with JavaScript.  
-Each project is designed to follow concepts such as:
+Each project demonstrates key FP concepts such as:
 
-- 💡 Immutability
-- 🧼 Pure Functions
-- 🔁 Function Composition (`pipe`, `compose`)
-- ✅ Higher-Order Functions
+- 💡 Immutability  
+- 🧼 Pure Functions  
+- 🔁 Function Composition (`pipe`, `compose`)  
+- ✅ Higher-Order Functions  
 
 ---
 
 ## 📂 Projects
 
-### 🎬 [CineWise---Movie-Recommendation-Engine][https://github.com/Mostafa-36/CineWise---Movie-Recommendation-Engine]  
-A movie recommendation engine built entirely with FP techniques.  
-Uses `pipe`, `filter`, `map`, and `reduce` to create a composable logic flow.
+### 🎬 [CineWise – Movie Recommendation Engine](https://github.com/Mostafa-36/CineWise---Movie-Recommendation-Engine)  
+A movie recommendation engine built entirely using functional programming techniques.  
+It leverages `pipe`, `filter`, `map`, and `reduce` to create a clean and composable logic flow.
 
 ---
 
 ## 📌 Why This Repository?
 
-The goal is to demonstrate how Functional Programming can be used to build clean, testable, and maintainable real-world applications.  
-This serves as both a portfolio and a learning resource.
+The goal of this repository is to demonstrate how functional programming can be applied to build **clean**, **testable**, and **maintainable** real-world applications.  
+It serves both as a personal portfolio and a learning resource for others interested in FP.
 
 ---
 
