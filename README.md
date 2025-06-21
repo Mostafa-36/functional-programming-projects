@@ -13,7 +13,7 @@ Each project is designed to follow concepts such as:
 
 ## 📂 Projects
 
-### 🎬 [FP Movie Recommender](https://github.com/Mostafa-36/fp-movie-recommender)  
+### 🎬 [CineWise---Movie-Recommendation-Engine][https://github.com/Mostafa-36/CineWise---Movie-Recommendation-Engine]  
 A movie recommendation engine built entirely with FP techniques.  
 Uses `pipe`, `filter`, `map`, and `reduce` to create a composable logic flow.
 
